@@ -46,11 +46,6 @@ I turn coffee into code and debugging sessions into learning adventures!
 
 ---
 
-### Streak stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=kishore93&theme=radical)
-
----
-
 ### Trophy showcase:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kishore93&theme=onedark)
 
