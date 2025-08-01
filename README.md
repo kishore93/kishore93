@@ -2,9 +2,6 @@
 
 ![Profile Banner](/assets/profile-banner.png)
 
-# Tavva Venkata Kishore
-## Senior Software Engineer | Java Enthusiast | Tech Explorer
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavva-venkata-kishore/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kishore03/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kishore_kumar93)
